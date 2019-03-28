@@ -10,11 +10,15 @@ O sistema PontoWeb da Universidade Federal de Pernambuco é responsável pelo co
 - Whatssap
 - [Google Sheets](http://bit.do/eMZEi)
 - Google slides
+- Google Drive
 
 # Plano de Comunicação
     .
 # Metodologia
     .
+
+# Reunião
+- [Relatorio da reunião](http://bit.do/eMZEi)
 # Grupo
 - Livio Cavalcanti(lcs9@cin.ufpe.br)
 - Raphael Farias (rff3@cin.ufpe.br)
