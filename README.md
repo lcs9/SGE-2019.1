@@ -1,5 +1,4 @@
-# **Sistema de Gerenciamento Empresarial**
-# **Gestao de frequencia**
+# **SGE-Gestao de frequencia**
 ---
 
 # Descrição
@@ -11,9 +10,11 @@ O sistema PontoWeb da Universidade Federal de Pernambuco é responsável pelo co
 - Whatssap
 - [Google Sheets](http://bit.do/eMZEi)
 - Google slides
--
-# Plano de Comunicação
 
+# Plano de Comunicação
+    .
+# Metodologia
+    .
 # Grupo
 - Livio Cavalcanti(lcs9@cin.ufpe.br)
 - Raphael Farias (rff3@cin.ufpe.br)
