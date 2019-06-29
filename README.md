@@ -1,7 +1,7 @@
 # **SGE-Gestao de frequencia**
 ---
 
-| [kick-of do projeto](https://docs.google.com/presentation/d/1n_-fZJEyk6TA4l5VnsJ69ZrtaSW26qdaoXZdQximp4g/edit?usp=sharing) | [1º Status Report](https://docs.google.com/presentation/d/1L_gipMq51mYEmF_ZlTVO_ieWYV9v8Qh-4GaNVhjrDzY/edit#slide=id.g35f391192_00) |
+| [kick-of do projeto](https://docs.google.com/presentation/d/1n_-fZJEyk6TA4l5VnsJ69ZrtaSW26qdaoXZdQximp4g/edit?usp=sharing) | [1º Status Report](https://docs.google.com/presentation/d/1L_gipMq51mYEmF_ZlTVO_ieWYV9v8Qh-4GaNVhjrDzY/edit#slide=id.g35f391192_00) | [Apresentação final ](https://github.com/lcs9/SGE-2019.1/blob/master/Apresenta%C3%A7%C3%A3o%20final%20(1).pptx) | [Plano de Implantação](https://github.com/lcs9/SGE-2019.1/blob/master/Plano%20de%20Implanta%C3%A7%C3%A3o%20SGE.pdf) |
 
 # Descrição
 O sistema PontoWeb da Universidade Federal de Pernambuco é responsável pelo controle da frequência dos Técnicos Administrativos. Com migração do Sig@ para SIGAA o PontoWeb irá passar apenas para a manutenção e parte técnica do sistema. Então será preciso fazer uma transposição  e transferência contínua dos dados de frequência dos funcionários do sistema PontoWeb para o SIGAA, onde será desenvolvido e implantado um software responsável e com a capacidade de realizar essa tarefa.
